@@ -119,15 +119,9 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
-# api/settings.py
-INSTALLED_APPS = [
-    # ...
-    'encyclopedia',
-]
 
 
 # api/settings.py
-ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app']
+ALLOWED_HOSTS = [ '.vercel.app']
 
-
-WSGI_APPLICATION = 'api.wsgi.app'
+app = application
