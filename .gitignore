@@ -1,1 +1,16 @@
 .vercel
+.venv
+asgiref
+asgiref-3.6.0.dist-info
+bin
+dateutil
+django
+Django-4.1.5.dist.info
+python-dateutil-2.8.2.dist-info
+six-1.16.0.dist-info
+sqlparse
+sqlparse-0.4.3.dist-infotzdata
+tzdata-2022.7.dist-info
+werkzeug
+Werkzueg-1.0.1.dist-info
+six.py
