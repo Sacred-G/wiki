@@ -1,6 +1,11 @@
 # Wiki Clone
 
+<a href="https://imgur.com/0pslnMt"><img src="https://i.imgur.com/0pslnMt.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/KwtmO2O"><img src="https://i.imgur.com/KwtmO2O.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/WRciOyU"><img src="https://i.imgur.com/WRciOyU.jpg" title="source: imgur.com" /></a>
 ## Overview
+
+###  This was part of a project for Harvards CS50W Web Programming with Python Project 1 
 
 This Wiki Clone is a web application that allows users to create, edit, and view wiki pages using Markdown or HTML. The pages are rendered into HTML upon saving, providing a seamless reading experience. The application includes a search function that allows users to search the entire site for specific content. This project was developed as part of the CS50W course at Harvard University.
 
