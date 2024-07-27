@@ -1,6 +1,6 @@
 {
 "builds":[{
-    "src":"encyclopedia/wsgi.py",
+    "src":"wiki/wsgi.py",
     "use":"@vercel/python",
     "config": {"maxLamdaSize": "15mb", "runtime":"python3.12"}
 
@@ -9,7 +9,7 @@
 {
 
     "src": "/(.*)",
-    "dest": "encyclopedia/wsgi.py"
+    "dest": "wiki/wsgi.py"
 }
 
 ]
