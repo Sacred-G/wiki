@@ -1,8 +1,8 @@
 # Wiki Clone
-
-<a href="https://imgur.com/0pslnMt"><img src="https://i.imgur.com/0pslnMt.png" width="50%" /></a>
-<a href="https://imgur.com/KwtmO2O"><img src="https://i.imgur.com/KwtmO2O.jpg" title="source: imgur.com" /></a>
-<a href="https://imgur.com/WRciOyU"><img src="https://i.imgur.com/WRciOyU.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/IEzf2b2"><img src="https://i.imgur.com/IEzf2b2.png" width="70%" /></a>
+<a href="https://imgur.com/0pslnMt"><img src="https://i.imgur.com/0pslnMt.png" width="70%" /></a>
+<a href="https://imgur.com/KwtmO2O"><img src="https://i.imgur.com/KwtmO2O.jpg" width="70%" /></a>
+<a href="https://imgur.com/WRciOyU"><img src="https://i.imgur.com/WRciOyU.jpg" width="70%"  /></a>
 ## Overview
 
 ###  This was part of a project for Harvards CS50W Web Programming with Python Project 1 
