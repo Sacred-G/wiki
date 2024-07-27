@@ -1,6 +1,6 @@
 # Wiki Clone
 
-<a href="https://imgur.com/0pslnMt"><img src="https://i.imgur.com/0pslnMt.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/0pslnMt"><img src="https://i.imgur.com/0pslnMt.png" width="50%" /></a>
 <a href="https://imgur.com/KwtmO2O"><img src="https://i.imgur.com/KwtmO2O.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/WRciOyU"><img src="https://i.imgur.com/WRciOyU.jpg" title="source: imgur.com" /></a>
 ## Overview
